@@ -247,7 +247,6 @@ The project was tested with Postman for the following flows:
 * Evolve the system toward microservices by splitting order, inventory, event, and strategy domains, and adding Gateway, OpenFeign, and Resilience4j for service governance
 * Add analytics and business enablement capabilities such as operational metrics, reports, alerts, and trend analysis to support decision-making
 * Explore LLM, RAG, and Agent use cases for ticketing operations, such as intelligent Q&A, anomaly analysis, operational recommendations, and automated issue handling
-* Improve engineering maturity with Docker Compose-based multi-service orchestration, CI/CD pipelines, observability, and integration tests with Testcontainers
 
 ## Project Highlights
 
